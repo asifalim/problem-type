@@ -17,6 +17,7 @@
 7:https://lightoj.com/problem/generating-palindromes
 8:https://lightoj.com/problem/collecting-gold
 9:https://lightoj.com/problem/neighbor-house
+10:https://lightoj.com/problem/pimp-my-ride
 -----------------------------------Bitset-----------------
 1:https://atcoder.jp/contests/abc240/tasks/abc240_c
 2:https://cses.fi/problemset/task/1706
