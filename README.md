@@ -20,6 +20,7 @@
 10:https://lightoj.com/problem/pimp-my-ride
 11:https://lightoj.com/problem/digit-count
 12:https://lightoj.com/problem/divisible-group-sums
+13:https://lightoj.com/problem/anagram-division
 -----------------------------------Bitset-----------------
 1:https://atcoder.jp/contests/abc240/tasks/abc240_c
 2:https://cses.fi/problemset/task/1706
