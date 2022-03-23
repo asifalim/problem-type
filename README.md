@@ -7,6 +7,7 @@
 5:https://lightoj.com/problem/monkey-banana-problem
 6:https://lightoj.com/problem/marriage-ceremonies
 7:https://lightoj.com/problem/coin-change-i
+8:https://toph.co/p/find-nsups
 -----------------------------------Recursion--------------
 1:https://atcoder.jp/contests/abc240/tasks/abc240_c
 2:https://atcoder.jp/contests/abc233/tasks/abc233_c
