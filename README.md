@@ -26,6 +26,7 @@
 15:https://lightoj.com/problem/good-or-bad
 16:https://lightoj.com/problem/investigation
 17:https://toph.co/p/a-journey-towards-one
+18:https://toph.co/p/brain-pleased
 -----------------------------------Bitset-----------------
 1:https://atcoder.jp/contests/abc240/tasks/abc240_c
 2:https://cses.fi/problemset/task/1706
