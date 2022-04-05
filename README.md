@@ -8,6 +8,7 @@
 6:https://lightoj.com/problem/marriage-ceremonies
 7:https://lightoj.com/problem/coin-change-i
 8:https://toph.co/p/find-nsups
+9:https://codeforces.com/contest/1195/problem/C
 -----------------------------------Recursion--------------
 1:https://atcoder.jp/contests/abc240/tasks/abc240_c
 2:https://atcoder.jp/contests/abc233/tasks/abc233_c
@@ -28,6 +29,7 @@
 17:https://toph.co/p/a-journey-towards-one
 18:https://toph.co/p/brain-pleased
 19:https://atcoder.jp/contests/abc245/tasks/abc245_c
+20:https://codeforces.com/contest/1195/problem/C
 -----------------------------------Bitset-----------------
 1:https://atcoder.jp/contests/abc240/tasks/abc240_c
 2:https://cses.fi/problemset/task/1706
