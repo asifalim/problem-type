@@ -31,6 +31,8 @@
 19:https://atcoder.jp/contests/abc245/tasks/abc245_c
 20:https://codeforces.com/contest/1195/problem/C
 21:https://www.eolymp.com/en/problems/1512
+22:https://www.eolymp.com/en/problems/2524
+23:https://www.eolymp.com/en/problems/2523
 -----------------------------------Bitset-----------------
 1:https://atcoder.jp/contests/abc240/tasks/abc240_c
 2:https://cses.fi/problemset/task/1706
