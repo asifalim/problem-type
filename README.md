@@ -30,6 +30,7 @@
 18:https://toph.co/p/brain-pleased
 19:https://atcoder.jp/contests/abc245/tasks/abc245_c
 20:https://codeforces.com/contest/1195/problem/C
+21:https://www.eolymp.com/en/problems/1512
 -----------------------------------Bitset-----------------
 1:https://atcoder.jp/contests/abc240/tasks/abc240_c
 2:https://cses.fi/problemset/task/1706
