@@ -33,6 +33,7 @@
 21:https://www.eolymp.com/en/problems/1512
 22:https://www.eolymp.com/en/problems/2524
 23:https://www.eolymp.com/en/problems/2523
+24:https://codeforces.com/contest/1385/problem/D
 -----------------------------------Bitset-----------------
 1:https://atcoder.jp/contests/abc240/tasks/abc240_c
 2:https://cses.fi/problemset/task/1706
